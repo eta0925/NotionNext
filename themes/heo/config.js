@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '和我一起',
-  HEO_HERO_TITLE_2: '看看世界',
+  HEO_HERO_TITLE_1: '下辈子不当',
+  HEO_HERO_TITLE_2: '产品经理！',
   HEO_HERO_TITLE_3: 'Charlotte Zhang',
   HEO_HERO_TITLE_4: '内容更新',
   HEO_HERO_TITLE_5: 'Welcome Aboard',
@@ -36,11 +36,11 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤝 社交恐怖分子',
+    '🏃 喜欢运动',
+    '🏠 喜欢躺平',
+    '🤖️ 科技爱好者',
+    '🧱 搬砖工'
   ],
 
   // 个人资料底部按钮
