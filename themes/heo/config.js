@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'Charlotte Zhang',
   HEO_HERO_TITLE_4: '内容更新',
   HEO_HERO_TITLE_5: 'Welcome Aboard',
-  HEO_HERO_TITLE_LINK: 'https://https://notion-next-kiuo1kxnm-charlotte-zhangs-projects.vercel.app/',
+  HEO_HERO_TITLE_LINK: 'https://notion-next-mwlh4kodd-charlotte-zhangs-projects.vercel.app/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '读书·电影', url: '/tag/读书·电影' },
@@ -55,7 +55,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: 'https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/a3170a7607fe4681b67470af25c702b3~tplv-xv4ileqgde-image.image',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
