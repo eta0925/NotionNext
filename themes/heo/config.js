@@ -46,9 +46,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://notion-next-kiuo1kxnm-charlotte-zhangs-projects.vercel.app/',
+  HEO_INFO_CARD_URL2: 'https://github.com/eta0925/',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://notion-next-kiuo1kxnm-charlotte-zhangs-projects.vercel.app/',
+  HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -114,7 +114,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: 'MetaEdge',
   HEO_SOCIAL_CARD_TITLE_2: '全球边缘计算产品',
-  HEO_SOCIAL_CARD_TITLE_3: '看看我做的产品',
+  HEO_SOCIAL_CARD_TITLE_3: '看看我做的产品?',
   HEO_SOCIAL_CARD_URL: 'https://www.metaedge.io/',
 
   // *****  以下配置无效，只是预留开发 ****
@@ -126,7 +126,7 @@ const CONFIG = {
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
-  HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
+  HEO_POST_LIST_COVER_HOVER_ENLARGE: true, // 列表鼠标悬停放大
 
   HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
@@ -134,8 +134,8 @@ const CONFIG = {
   HEO_POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
 
   HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
-  HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
+  HEO_ARTICLE_COPYRIGHT: false, // 显示文章版权声明
+  HEO_ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   HEO_WIDGET_ANALYTICS: false, // 显示统计卡
