@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '你好呀！', url: 'https://blog.tangly1024.com' },
-    { title: '吃饭了吗？', url: 'https://docs.tangly1024.com' }
+    { title: '你好呀！', url: 'https://charlottezhang.vercel.app/about' },
+    { title: '吃饭了吗？', url: 'https://charlottezhang.vercel.app/about' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -58,15 +58,15 @@ const CONFIG = {
       img_1: 'https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/a3170a7607fe4681b67470af25c702b3~tplv-xv4ileqgde-image.image',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: 'https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338429_1280.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      img_1: 'https://banner2.cleanpng.com/20180821/wti/kisspng-league-of-legends-logo-video-games-brand-those-crazy-south-africans-7-15-14-5b7c8de50c5da9.9445392215348894450507.jpg',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      img_2: 'https://gd-hbimg.huaban.com/3ee27837359d82bb6d93d887d4bb50f96f58dd038afe6-AtmsY3_fw658',
       color_2: '#4082c3'
     },
     {
@@ -115,7 +115,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: 'MetaEdge',
   HEO_SOCIAL_CARD_TITLE_2: '全球边缘计算产品',
   HEO_SOCIAL_CARD_TITLE_3: '看看我做的产品',
-  HEO_SOCIAL_CARD_URL: 'MetaEdge.io',
+  HEO_SOCIAL_CARD_URL: 'https://www.metaedge.io/',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
